@@ -15,6 +15,12 @@ Folgende Mods werden stark für Yac empfohlen#:
   Damit ist Sprachchat auf dem Server möglich
 #### Simple Voice Chat Download: https://modrinth.com/plugin/simple-voice-chat
 
+## JourneyMap
+  Journey map ist eine Karte für Minecraft
+##### JourneyMap Donwload: https://modrinth.com/mod/journeymap
+
+## 
+
 
 
   
