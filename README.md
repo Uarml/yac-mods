@@ -19,7 +19,13 @@ Folgende Mods werden stark für Yac empfohlen:
   Journey map ist eine Karte für Minecraft.
 ##### JourneyMap Donwload: https://modrinth.com/mod/journeymap
 
-## 
+## Sodium
+  Sodium ist ein Mod welcher sehr stark die Performance von Minecraft verbessert.
+#### Sodium Download: https://modrinth.com/mod/sodium
+
+## Iris Shaders
+  Mit Iris lassen sich Optifine Shader laden.
+#### Iris Shaders Download: https://modrinth.com/mod/iris
 
 
 
