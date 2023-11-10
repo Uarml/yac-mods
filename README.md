@@ -1,5 +1,5 @@
 # yac-mods
-Folgende Mods werden stark für Yac empfohlen#:
+Folgende Mods werden stark für Yac empfohlen:
 
 ## Quilt/Fabric
   Beides sind sehr gute Modloader, welche beide mit Quilt und Fabric mods funktionieren.
@@ -12,11 +12,11 @@ Folgende Mods werden stark für Yac empfohlen#:
 #### Fabric API Download: https://modrinth.com/mod/fabric-api
 
 ## Simple Voice Chat
-  Damit ist Sprachchat auf dem Server möglich
+  Damit ist Sprachchat auf dem Server möglich.
 #### Simple Voice Chat Download: https://modrinth.com/plugin/simple-voice-chat
 
 ## JourneyMap
-  Journey map ist eine Karte für Minecraft
+  Journey map ist eine Karte für Minecraft.
 ##### JourneyMap Donwload: https://modrinth.com/mod/journeymap
 
 ## 
